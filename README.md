@@ -1,4 +1,4 @@
-# DeepLearningExtremeEvents
+# README.md
 
 First, download all files in this folder. The code to run is in files `main_ff.m`, `main_lstm.m`, and `main_rc.m`. Follow the directions within these files to make predictions using our trained neural networks, or to train your own neural networks to make predictions on our data.
 
